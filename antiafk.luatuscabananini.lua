@@ -1,7 +1,3 @@
--- Anti-AFK GUI mejorado (toggle, intervalos, aleatorio, teclas configurables, draggable)
--- Autor base: Tuscabananini | Mejora: ChatGPT
--- ADVERTENCIA: Puede violar reglas de juegos/plataformas. Úsalo bajo tu responsabilidad.
-
 local Players = game:GetService("Players")
 local UIS = game:GetService("UserInputService")
 local VirtualInputManager = game:GetService("VirtualInputManager")
